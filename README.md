@@ -1,18 +1,19 @@
 # Resources
 ## Table of contents
-1. [Uni Items](#UNI)
-2. [Learning](#learning)
-3. [Hardware](#Hardware)
-4. [Software](#Software)
-5. [Languages](#Languages)
-6. [Books](#Books)
-7. [Articles](#Articles)
-8. [Misc](#Misc)
-9. [Onion](#Onion )
+1. [Uni Items](#Uni)
+1. [Pratical Work](#Pratical)
+1. [Learning](#learning)
+1. [Hardware](#Hardware)
+1. [Software](#Software)
+1. [Languages](#Languages)
+1. [Books](#Books)
+1. [Articles](#Articles)
+1. [Misc](#Misc)
+1. [Onion](#Onion)
 
 
 
-### University: <a name="UNI"></a>
+### University: <a name="Uni"></a>
 [My Port](https://myport.ac.uk/)  
 [Moddle](https://moodle.port.ac.uk/)  
 [Library](http://www.port.ac.uk/library/home)  
@@ -25,6 +26,11 @@
 [Instructables](http://www.instructables.com/)
 [Online Tests](https://learningcatalytics.com/) INTPROG only  
 [Learning Catalytics Session ID](https://learningcatalytics.com/class_sessions)
+
+### Pratical: <a name = "Pratical"></a>
+[Mercers](https://github.com/Mercer01/Intro_Programming)  
+[Hopson](https://github.com/Hopson97/IntProg_Practicals)  
+[Ocean]()  
 
 ### Learning: <a name = "learning"></a>
 [Code Academy](https://www.codecademy.com/)  
