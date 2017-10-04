@@ -19,10 +19,10 @@
 [VM Machine](http://www.port.ac.uk/myvm)  
 [Google Drive](https://drive.google.com/)  
 [Google Scholar](https://scholar.google.co.uk/)  
-[GitHub](https://github.com/) 
-[Instructables](http://www.instructables.com/)
-[Online Tests](https://learningcatalytics.com/) INTPROG only  
-[Learning Catalytics Session ID](https://learningcatalytics.com/class_sessions)
+[GitHub](https://github.com/)   
+[Instructables](http://www.instructables.com/)  
+[Online Tests](https://learningcatalytics.com/) INTPROG only    
+[Learning Catalytics Page](https://learningcatalytics.com/class_sessions)
 
 ### Learning: <a name = "learning"></a>
 [Code Academy](https://www.codecademy.com/)  
@@ -68,8 +68,8 @@
 [Dont Go here](www.will-green.co.uk)
 
 ### Onion: <a name = "Onion"></a>
-[Tor](http://torproject.org/) - 
-[DuckDuckGo Onion](https://3g2upl4pq6kufc4m.onion/) - 
+[Tor](http://torproject.org/)  
+[DuckDuckGo Onion](https://3g2upl4pq6kufc4m.onion/)  
 [Thee Hidden Wiki](http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page)   
 [Hidden Wiki 1](http://hiddenwikitor.com/)  
 [Hidden Wiki 2](https://thehiddenwiki.org/)   

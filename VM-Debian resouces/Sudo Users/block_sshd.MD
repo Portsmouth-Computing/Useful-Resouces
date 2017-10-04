@@ -17,3 +17,5 @@ Finally
 ```
 sudo service sshd restart
 ```
+
+This will work for other processes.
