@@ -10,7 +10,8 @@ Instead you will have to do this manually.
 If you want this all done for you please just download the gist [here](https://gist.github.com/Lagicrus/5dd000c3e072542f8a288660a044651a)
 If not please follow the steps bellow
 
-Solution 1, using both wget and python3 
+Solution 1, using both wget and python3
+
 #Within linux console
 ```
 me@server:~$ wget "https://bootstrap.pypa.io/get-pip.py" -O get_pip.py
