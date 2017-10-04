@@ -11,12 +11,13 @@ If you want this all done for you please just download the gist [here](https://g
 If not please follow the steps bellow
 
 Solution 1, using both wget and python3
-```
 #Within linux console
+```
 me@server:~$ wget "https://bootstrap.pypa.io/get-pip.py" -O get_pip.py
+```
 #This will download the file and save it to the specified name
+```
 me@server:~$ python3 get_pip.py
-#Done.
 ```
 Solution 2, using just python3
 ```Python
