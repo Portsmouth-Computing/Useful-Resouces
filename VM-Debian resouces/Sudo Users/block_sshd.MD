@@ -1,6 +1,6 @@
 ### Blocking hosts
 
-Oceanlord found a number of users attempting to SSH into his vm originating from China.
+There were some users attempting to SSH into his vm originating from China.
 easy fix guide
 
 if you have sudo and you want to block

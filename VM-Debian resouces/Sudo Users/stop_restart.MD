@@ -66,4 +66,3 @@ if [[ "$counter" -gt 5 ]]; then
 fi
 ```
 At which point you can just comment out the ``` /sbin/shutdown -h now ``` to get it to not stop your VM
-and restart the VM
