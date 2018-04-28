@@ -1,4 +1,50 @@
 # This file will be an example of an updated and improved bash profile. 
 # People can learn and hopefully understand the roles or certain keywords and scripts.
 
-# Update - Friday 27th.
+File Edit Options Buffers Tools Sh-Script Help                                            
+bold=$(tput bold)
+underline=$(tput sgr 0 1)
+reset=$(tput sgr0)
+
+purple=$(tput setaf 171)
+red=$(tput setaf 1)
+green=$(tput setaf 76)
+tan=$(tput setaf 3)
+blue=$(tput setaf 38)
+
+# Headers and  Logging                                                                    
+e_header() { printf "\n${bold}${purple}==========  %s  ==========${reset}\n" "$@"; }
+e_arrow() { printf "➜ $@\n"; }
+e_success() { printf "${green}✔ %s${reset}\n" "$@"; }
+e_error() { printf "${red}✖ %s${reset}\n" "$@"; }
+e_warning() { printf "${tan}➜ %s${reset}\n" "$@"; }
+e_underline() { printf "${underline}${bold}%s${reset}\n" "$@"; }
+e_bold() { printf "${bold}%s${reset}\n" "$@"; }
+e_note() { printf "${underline}${bold}${blue}Note:${reset} ${blue}%s${reset}\n" "$@"; }
+
+# -------------------------------                                                         
+# 1. ENVIRONMENT CONFIGURATION                                                            
+# -------------------------------                                                         
+
+# Change Prompt                                                                           
+export PS1="_______________________________________________ | \n\[\033[36m\]\u\[\033[m\]@\
+\[\033[32m\]\h:\[\033[33;1m\]\w\[\033[m\]\n| => "
+export PS2="| => "
+
+export CLICOLOR=1
+export LSCOLORS=ExFxBxDxCxegedabagacad
+alias ls='ls -GFh'
+
+# Set Paths                                                                               
+export PATH="/usr/local/sbin:$PATH"
+export PATH="/usr/local/opt/openssl/bin:$PATH"
+
+# Set Editor                                                                              
+export EDITOR=/usr/bin/emacs
+
+# Set Java                                                                                
+eval "$(jenv init -)"
+export JAVA_HOME="$HOME/.jenv/versions/`jenv version-name`"
+#-------------------------------------------------------------------------------------    
+alias jenv_set_java_home='export JAVA_HOME="$HOME/.jenv/versions/`jenv version-name`"'
+#-------------------------------------------------------------------------------------    
