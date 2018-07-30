@@ -6,7 +6,7 @@ If you have sudo and you wish to block these and all other IPs that are coming t
 
 First,
 ```
-git pull https://github.com/Portsmouth-Computing/SSH-Blocking-and-Scanning.git
+git clone https://github.com/Portsmouth-Computing/SSH-Blocking-and-Scanning.git
 ```
 This will download the reposity for the file from GitHub.
 
